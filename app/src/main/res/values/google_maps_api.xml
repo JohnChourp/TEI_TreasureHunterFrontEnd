@@ -1,3 +1,8 @@
 <resources>
-    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">AIzaSyDPv2Q6EMY_q5sVjdEmXWSGqOpgyJI2JoQ</string>
+    <!--
+        Put your own Google Maps Android API key here, restricted in the Google Cloud console
+        to this app's package name and signing certificate. Never commit a real key: this
+        repository is public, and a key in history stays readable after it is removed.
+    -->
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">YOUR_GOOGLE_MAPS_API_KEY</string>
 </resources>
